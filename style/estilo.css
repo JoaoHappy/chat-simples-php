@@ -1,0 +1,33 @@
+body {
+    background-color: crimson;
+}
+
+.inputs {
+    margin-left: 240px;
+    border-radius: 5%;
+    background-color: transparent;
+    border: none;
+}
+
+.inputs-texto {
+    padding-top: 20px;
+    padding-right: 50px;
+    border-radius: 5%;
+    margin-left: 20px;
+    background-color: transparent;
+    border: none;
+    color: white;
+}
+
+.btn_enviar {
+    position: relative;
+    color: white;
+    background-color: transparent;
+    border: none;
+    left: 600px;
+    bottom: 18px;
+}
+
+::-webkit-input-placeholder {
+    color: wheat;
+}
