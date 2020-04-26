@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Joao\\": "lib/Joao"
+        }
+    },
+    "require": {
+        "cboden/ratchet": "^0.4.2"
+    }
+}
