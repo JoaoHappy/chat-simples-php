@@ -16,4 +16,6 @@ https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
 
 http://socketo.me/
 
+Obs: Tem que seguir o tutorial de instalação da biblioteca
+
 Isso é tudo obrigado!
